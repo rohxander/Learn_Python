@@ -14,7 +14,7 @@ while len(stuff) != 10:
 print("There we go: ", stuff)
 
 print("Let's do some things with stuff.")
-n = 0
+n = 0 
 while n != 10:
 	print(stuff[n])
 	n = n + 2
