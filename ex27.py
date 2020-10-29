@@ -43,7 +43,6 @@ def cthulhu_room():
  		print("Do you flee for your life or eat your head?")
 
 	    choice = input(">")
-
 		if "flee" in choice:
  			start()
 		elif "head" in choice:	
